@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: blueviolet;
+}
+#myCanvas{
+    background-color: white;
+    border-width: 10px;
+    border-style: ridge;
+}
